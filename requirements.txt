@@ -4,3 +4,4 @@ python-dotenv
 GitPython 
 pinecone-client
 streamlit
+tiktoken
